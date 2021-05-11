@@ -10,3 +10,9 @@ print("{}? That's a nice color!".format(color))
 animal = input("Can you tell me your favourite animal?")
 
 print("{}? That means... you like {} {}s!".format(animal, color, animal))
+
+place = input("If you could live anywhere, where would you want to live?")
+
+print("So basically, you'd enjoy living at {} with a {} {}!".format(place, color, animal))
+
+
